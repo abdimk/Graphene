@@ -5,7 +5,6 @@ Abdisa Merga(@Abdimk)
 import shutil
 import sys 
 import os
-from tokenize import PseudoExtras
 import traceback
 from PyQt6 import *
 from PySide2 import *
