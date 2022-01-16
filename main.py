@@ -2,7 +2,6 @@
 Abdisa Merga(@Abdimk)
 2022
 """
-from random import shuffle
 import shutil
 import sys 
 import os
