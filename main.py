@@ -1,5 +1,7 @@
 """
 Abdisa Merga(@Abdimk)
+
+i used PySide2 but you should use PySide5 
 2022
 """
 import shutil
