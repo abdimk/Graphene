@@ -6,7 +6,6 @@ from random import shuffle
 import shutil
 import sys 
 import os
-from tkinter.ttk import Progressbar
 from tokenize import PseudoExtras
 import traceback
 from PyQt6 import *
