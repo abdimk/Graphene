@@ -17,8 +17,8 @@
 
 
 # Graphene
-yaml
-```
+
+```sh
 Graphene is a cross-platform python PySide project for retrieving information on running processes and system utilization (CPU, memory, disks, network, sensors) in Python. It is useful mainly for system monitoring, profiling and limiting process resources and management of running processes.
 
 
