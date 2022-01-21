@@ -12,11 +12,5 @@
         <a href="https://github.com/abdimk/Graphene/raw/V0.0.5/Graphine.zip"><b>Download</b></a>&nbsp;&nbsp;&nbsp;
         
    </div>
-# Tuneln 
-the Fastest telegram bot to download music 
-Telegram bot witten in python-telegram-bot
-
-
 [![Python](http://forthebadge.com/images/badges/made-with-python.svg)](https://python.org)
 
-you can find it on telegram [Tunelnbot](https://t.me/Tunelnbot). 
