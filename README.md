@@ -3,8 +3,9 @@
    
    
    <div align="center">
-   <h1>GRAPHENE MANAGER</h1><a href="https://github.com/giampaolo/psutil"><img src="https://github.com/abdimk/Graphene/blob/V0.0.5/custom_UI/icons/tv.svg"  width="100" height="100" /></a>
+   <a href="https://github.com/giampaolo/psutil"><img src="https://github.com/abdimk/Graphene/blob/V0.0.5/custom_UI/icons/tv.svg"  width="100" height="100" /></a>
         <br />
+   <h1>GRAPHENE</h1>
         <br />
         <a href="https://github.com/giampaolo/psutil"><b>Home</b></a>&nbsp;&nbsp;&nbsp;
         <a href="https://github.com/giampaolo/psutil/blob/master/INSTALL.rst"><b>Install</b></a>&nbsp;&nbsp;&nbsp;
