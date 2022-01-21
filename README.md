@@ -26,7 +26,7 @@ resources and management of running processes.
 
 ```
 <div align="center">
-   <a href="https://github.com/abdimk/graphene"><img src="https://github.com/abdimk/Graphene/blob/V0.0.5/preview/merged.png"  width="100" height="100" /></a>
+   <a href="https://github.com/abdimk/graphene"><img src="https://github.com/abdimk/Graphene/blob/V0.0.5/preview/merged.png"  width="500" height="500" /></a>
    <br />
 
 
