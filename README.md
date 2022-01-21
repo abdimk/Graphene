@@ -3,7 +3,7 @@
    
    
    <div align="center">
-        <a href="https://github.com/giampaolo/psutil"><img src="https://github.com/giampaolo/psutil/raw/master/docs/_static/psutil-logo.png" /></a>
+        <a href="https://github.com/giampaolo/psutil"><img src="https://"" /></a>
         <br />
         <br />
         <a href="https://github.com/giampaolo/psutil"><b>Home</b></a>&nbsp;&nbsp;&nbsp;
