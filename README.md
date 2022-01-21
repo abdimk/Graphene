@@ -1,6 +1,4 @@
-.. |contributors| image:: https://img.shields.io/github/contributors/giampaolo/psutil.svg
-    :target: https://github.com/abdimk/graphene/graphs/contributors
-    :alt: Contributors
+
 
    
    
