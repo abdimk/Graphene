@@ -12,5 +12,8 @@
         <a href="https://github.com/abdimk/Graphene/raw/V0.0.5/Graphine.zip"><b>Download</b></a>&nbsp;&nbsp;&nbsp;
         
    </div>
+   
+#Graphene
+Graphene is a cross-platform python PySide project for retrieving information on running processes and system utilization (CPU, memory, disks, network, sensors) in Python. It is useful mainly for system monitoring, profiling and limiting process resources and management of running processes.
 [![Python](http://forthebadge.com/images/badges/made-with-python.svg)](https://python.org)
 
