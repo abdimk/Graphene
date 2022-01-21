@@ -3,7 +3,7 @@
    
    
    <div align="center">
-   <a href="https://github.com/giampaolo/psutil"><img src="https://github.com/abdimk/Graphene/blob/V0.0.5/custom_UI/icons/tv.svg"  width="100" height="100" /></a>
+   <a href="https://github.com/abdimk/graphene"><img src="https://github.com/abdimk/Graphene/blob/V0.0.5/custom_UI/icons/tv.svg"  width="100" height="100" /></a>
         <br />
    <h1>GRAPHENE</h1>
         <br />
@@ -25,7 +25,9 @@ resources and management of running processes.
 
 
 ```
-
+<div align="center">
+   <a href="https://github.com/abdimk/graphene"><img src="https://github.com/abdimk/Graphene/blob/V0.0.5/custom_UI/icons/tv.svg"  width="100" height="100" /></a>
+   <br />
 
 
 
