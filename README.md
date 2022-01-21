@@ -3,7 +3,7 @@
    
    
    <div align="center">
-        <a href="https://github.com/giampaolo/psutil"><img src="https://github.com/abdimk/Graphene/blob/V0.0.5/custom_UI/icons/tv.svg" /></a>
+        <a href="https://github.com/giampaolo/psutil"><img src="https://github.com/abdimk/Graphene/blob/V0.0.5/custom_UI/icons/tv.svg"  width="100" height="100" /></a>
         <br />
         <br />
         <a href="https://github.com/giampaolo/psutil"><b>Home</b></a>&nbsp;&nbsp;&nbsp;
