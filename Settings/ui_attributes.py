@@ -14,7 +14,7 @@ from Functions.process import RunningProcess
 from Functions.storage import STORAGE
 from Functions.sensors import SENSORS
 from Functions.mynetwork import NETWORKS
-from threading.workerfunction import Worker,WorkerSignals
+from locathreading.workerfunction import Worker,WorkerSignals
 
 
 class MainWindow(QMainWindow,SlideClassMenu,BatteyPlugin,CPUANDRAM,SYSTEMINFO,RunningProcess,STORAGE,SENSORS,NETWORKS,Worker,WorkerSignals):
