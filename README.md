@@ -22,7 +22,12 @@
 
 </div>
 
-
+<div align="center">
+   <a href="https://github.com/abdimk/graphene"><img src="https://github.com/abdimk/Graphene/blob/V0.0.5/preview/1.png" width = "800",height="800"/></a>
+   <br />
+   
+   
+   
 # Graphene
 
 Graphene is a cross-platform python PySide project for retrieving information on running processes and system utilization 
@@ -30,9 +35,7 @@ Graphene is a cross-platform python PySide project for retrieving information on
 resources and management of running processes.
 
 
-<div align="center">
-   <a href="https://github.com/abdimk/graphene"><img src="https://github.com/abdimk/Graphene/blob/V0.0.5/preview/1.png" width = "800",height="800"/></a>
-   <br />
+
 
 
 ![Alt](https://repobeats.axiom.co/api/embed/7159ed7a31f167d99fe28fd0df0abcd257767e89.svg "Repobeats analytics ")
