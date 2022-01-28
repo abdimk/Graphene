@@ -35,5 +35,5 @@ resources and management of running processes.
    <br />
 
 
-![Alt](https://repobeats.axiom.co/api/embed/7159ed7a31f167d99fe28fd0df0abcd257767e89.svg "Repobeats analytics image")
+![Alt](https://repobeats.axiom.co/api/embed/7159ed7a31f167d99fe28fd0df0abcd257767e89.svg "Repobeats analytics ")
 
