@@ -6,11 +6,7 @@
    <a href="https://github.com/abdimk/graphene"><img src="https://github.com/abdimk/Graphene/blob/V0.0.5/custom_UI/icons/tv.svg"  width="100" height="100" /></a>
         <br />
    <h1>GRAPHENE</h1>
-   <div align="center">
 
-![platform](https://img.shields.io/badge/Platform-Windows-blue?style=flat-square&logo=windows) ![language](https://img.shields.io/badge/Language-Python%203-yellow?style=flat-square&logo=python) ![license](https://img.shields.io/badge/License-MIT-blueviolet?style=flat-square&logo=files)
-
-</div>
 
         <br />
         <a href="https://github.com/abdimk/graphene"><b>Home</b></a>&nbsp;&nbsp;&nbsp;
@@ -18,7 +14,11 @@
         <a href="https://github.com/abdimk/Graphene/raw/V0.0.5/Graphine.zip"><b>Download</b></a>&nbsp;&nbsp;&nbsp;
         
    </div>
- 
+   <div align="center">
+
+![platform](https://img.shields.io/badge/Platform-Windows-blue?style=flat-square&logo=windows) ![language](https://img.shields.io/badge/Language-Python%203-yellow?style=flat-square&logo=python) ![license](https://img.shields.io/badge/License-MIT-blueviolet?style=flat-square&logo=files)
+
+</div> 
 [![Python](http://forthebadge.com/images/badges/made-with-python.svg)](https://python.org)
 
 
