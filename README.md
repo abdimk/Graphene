@@ -16,7 +16,11 @@
 
 [![Python](http://forthebadge.com/images/badges/made-with-python.svg)](https://python.org)
 
+<div align="center">
 
+![platform](https://img.shields.io/badge/Platform-Windows-blue?style=flat-square&logo=windows) ![language](https://img.shields.io/badge/Language-Python%203-yellow?style=flat-square&logo=python) ![license](https://img.shields.io/badge/License-MIT-blueviolet?style=flat-square&logo=files)
+
+</div>
 # Graphene
 
 Graphene is a cross-platform python PySide project for retrieving information on running processes and system utilization 
